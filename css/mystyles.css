@@ -1,0 +1,57 @@
+/* Background */
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+/* Header */
+.header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Content section */
+.content {
+    margin: 20px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+/* Video section */
+.video {
+    margin: 20px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+/* Tableau section */
+.tableau {
+    margin: 20px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 20px auto
+}
+
+/* Link color */
+a {
+    color: white;
+}
+ol, ul{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
